@@ -1,0 +1,14 @@
+/Users/Danieluta/hello/bin/Debug/net8.0/hello
+/Users/Danieluta/hello/bin/Debug/net8.0/hello.deps.json
+/Users/Danieluta/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/Users/Danieluta/hello/bin/Debug/net8.0/hello.dll
+/Users/Danieluta/hello/bin/Debug/net8.0/hello.pdb
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.dll
+/Users/Danieluta/hello/obj/Debug/net8.0/refint/hello.dll
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.pdb
+/Users/Danieluta/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/Users/Danieluta/hello/obj/Debug/net8.0/ref/hello.dll
